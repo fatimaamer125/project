@@ -1,0 +1,30 @@
+
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header {
+    padding: 2em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+
+
+ ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 2px solid gray;
+    padding: 2em;
+    overflow: hidden;
+}
